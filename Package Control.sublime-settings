@@ -8,8 +8,11 @@
     "Emmet",
     "ERB Snippets",
     "Git",
-    "GitGutter",
+    "Latest Migration",
+    "MagicPython",
     "Package Control",
-    "SCSS"
+    "SCSS",
+    "SublimeLinter",
+    "SublimeLinter-rubocop"
   ]
 }
